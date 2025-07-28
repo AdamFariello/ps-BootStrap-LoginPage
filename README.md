@@ -1,3 +1,3 @@
 # Assignment
-* [Login page]("./index.html")
+* [Login page](index.html)
 * Register page
